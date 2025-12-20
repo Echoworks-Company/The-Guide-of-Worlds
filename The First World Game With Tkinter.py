@@ -30,11 +30,11 @@ GAME_DATA = {
     "Melee Weapons": [
         {'name': 'Training Sword', 'description': 'The sword that young warriors use to train. Crafted from Everwood for duribility.', 'type': 'Sword', 'traits': 'Duribility'},
         {'name': 'Bane of Enemy Territory', 'description': "The sword that only a hero may hold, has extrordinary power.", 'type': "Hero's sword", 'traits': "Gravitational pull, hero's luck, hero's power, hero's gain, duribility."}
-    ]
+    ],
     "Teams": [
     {'name': 'The Order of Death', 'description': 'An order that follows Death. Wears plague docter masks called Masks of the Order of Death. Seems to mostly be dead.' 'type': 'order', 'traits': 'Only the best of the best make up this team.'}
     {'name': 'The Ancients', 'description': 'A team that is working against Death and return peace to the world.', 'type': 'team', 'traits': 'Only the best of the best are members in this team.'}
-    
+    ],
 }
 
 class GameMenuApp:
